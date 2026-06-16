@@ -35,7 +35,7 @@ header-left:   "\\includegraphics[height=0.75cm]{assets/logo-junta.png}"
 header-center: ""
 header-right:  "\\rightmark"
 footer-left:   "\\textit{I.E.S. Almunia}"
-footer-center: "1º SMR - FFEOE 2025/2026"
+footer-center: "1º SMR - FFEOE 2026/2027"
 footer-right:  "\\thepage"
 
 # ──────────────────────────────────────────────

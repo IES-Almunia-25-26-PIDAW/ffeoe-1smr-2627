@@ -2,7 +2,7 @@
 
 Este cuadernillo recoge las actividades formativas de la **Fase de Formación en Empresas u Organismos Equiparados (FFEOE)**, correspondiente al ciclo de **Técnico en Sistemas Microinformáticos y Redes** en su modalidad de **Formación Profesional Dual**.
 
-Este curso 2025/2026 la FFEOE para 1º de SMR tiene una duración de **150 horas** distribuidas entre el 21 de abril y el 28 de mayo de 2026. Su objetivo es que parte de los contenidos de la materia sean impartidos en el propio centro de trabajo y por tanto, aplicados en un entorno real.
+Este curso 2026/2027 la FFEOE para 1º de SMR tiene una duración de **150 horas** distribuidas entre el xx de abril y el xx de mayo de 20xx. Su objetivo es que parte de los contenidos de la materia sean impartidos en el propio centro de trabajo y por tanto, aplicados en un entorno real.
 
 ### Dónde se desarrolla la fase
 
